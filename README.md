@@ -1,0 +1,1 @@
+nemosminer-DSTM-equihash-miner
